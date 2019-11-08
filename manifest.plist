@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/anleapat/parking/blob/master/Parking5.ipa</string>
+					<string>https://github.com/anleapat/parking/Parking5.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/anleapat/parking/blob/master/logo.png</string>
+					<string>https://github.com/anleapat/parking/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/anleapat/parking/blob/master/parking5.png</string>
+					<string>https://github.com/anleapat/parking/parking5.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
